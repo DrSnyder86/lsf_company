@@ -21,3 +21,9 @@ Standalone FiveM resource containing the Los Santos Freight Co. vehicle and trai
 The YTD files replace the matching vanilla texture dictionaries. The metadata files replace entries for the seven tractor models listed above so they can attach to additional vanilla trailer types. Other resources that stream the same YTD names or vehicle metadata entries may override or conflict with this pack.
 
 Do not run duplicate copies of these assets from both `ls_trucking` and `lsf_company` at the same time. Use this standalone pack when you want the LSFC fleet assets without the full trucking job.
+
+## License
+
+Copyright (c) 2026 DrSnyder. All rights reserved.
+
+Use and modification are permitted with attribution. Sale of this resource or any part of it is prohibited. See [LICENSE](LICENSE) for the complete terms; the `LICENSE` file controls if this summary differs from it.
